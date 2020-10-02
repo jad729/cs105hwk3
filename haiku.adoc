@@ -4,4 +4,8 @@ Until it is not
 
 So I messed it up
 I did a push and not pull
+<<<<<<< HEAD
 I hope this one worked
+=======
+Let's try this again
+>>>>>>> branch1
